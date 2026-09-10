@@ -6,6 +6,7 @@ This is a balance robot project developed using an IMU sensor and a PID control 
 - DC motors
 - TB6612FNG motor driver
 - 9V battery
+- Jumper cables and breadboards
 
 # Project Video
 https://drive.google.com/file/d/1BMdbfLBVH03XaPT3UsrbKrJg59-BPtNS/view?usp=drivesdk
